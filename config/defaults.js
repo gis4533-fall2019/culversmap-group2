@@ -21,7 +21,7 @@ define({
   "appid": "",
     
     // Update ID from old data 24e01ef45d40423f95300ad2abc5038a to new data d692f6b8f47c4470ab5c8ef0bda76801
-  "webmap": "d692f6b8f47c4470ab5c8ef0bda76801",
+  "webmap": "da389113e526445f8630b1bc824ebed1",
   "oauthappid": null, //"AFTKRmv16wj14N3z",
   //Group templates must support a group url parameter. This will contain the id of the group.
   "group": "",
