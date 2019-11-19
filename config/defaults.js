@@ -39,11 +39,13 @@ define({
   "legendTitleColor": "#fff",
   "showTitle": true,
   "showSubTitle": true,
-  "title": null,
+    // Updated title to "Culver's Map"
+  "title": "Culver's Map",
   "subtitle": null,
   "showLogo": true,
-  "logoLink": "https://www.esri.com",
-  "logo": "./images/esrilogo.png",
+    // Simplest approach to adding a Culver's logo and hyperlink: updated existing code. Switched Esri URL and inserted Culver's logo while also loading Culver's image into correct file.
+  "logoLink": "https://www.culvers.com",
+  "logo": "./images/Culver_logo.png",
   "showSocialIcons": true,
   "showSocialText": true,
   "socialLink": "https://storymaps.arcgis.com",
